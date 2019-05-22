@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Minsk-Gomel",
+    "time": 10,
+    "drivers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Minsk-Prosti",
+    "time": 4,
+    "drivers": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Prosti-Minsk",
+    "time": 5,
+    "drivers": [
+      3,
+      1
+    ]
+  }
+]

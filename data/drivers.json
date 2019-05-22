@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "surname": "Kramer",
+    "totalHours": 19,
+    "routes": [
+      {
+        "id": 1,
+        "title": "Minsk-Gomel",
+        "time": 10,
+        "dateOfRecording": "Feb 21 2019 12:50:40 GMT+0300 (Belarus Standard Time)"
+      },
+      {
+        "id": 2,
+        "title": "Minsk-Prosti",
+        "time": 4,
+        "dateOfRecording": "May 21 2019 12:51:23 GMT+0300 (Belarus Standard Time)"
+      },
+      {
+        "id": 3,
+        "title": "Prosti-Minsk",
+        "time": 5,
+        "dateOfRecording": "Tue May 21 2019 19:35:42 GMT+0300 (Belarus Standard Time)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Harry",
+    "surname": "Osborn",
+    "totalHours": 10,
+    "routes": [
+      {
+        "id": 1,
+        "title": "Minsk-Gomel",
+        "time": 10,
+        "dateOfRecording": "May 21 2019 12:54:21 GMT+0300 (Belarus Standard Time)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Johna",
+    "surname": "Heel",
+    "totalHours": 5,
+    "routes": [
+      {
+        "id": 3,
+        "title": "Prosti-Minsk",
+        "time": 5,
+        "dateOfRecording": "May 21 2019 12:55:33 GMT+0300 (Belarus Standard Time)"
+      }
+    ]
+  }
+]
